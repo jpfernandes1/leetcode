@@ -1,4 +1,5 @@
 package org.solutions.q0001;
+
 import java.util.HashMap;
 import java.util.Map;
 

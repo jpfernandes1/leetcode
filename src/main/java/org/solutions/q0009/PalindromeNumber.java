@@ -1,4 +1,4 @@
-package q0009;
+package org.solutions.q0009;
 
 import java.util.*;
 
